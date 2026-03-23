@@ -1,47 +1,81 @@
-💫 About Me:
+<h1 align="center">Hi 👋, I'm Muhammad</h1>
+<h3 align="center">🚀 T-Level Digital Production Student | Future Software Engineer</h3>
 
-🔭 I’m currently working on
-Building real-world digital systems, including retail platforms, booking systems, and centralized management dashboards using modern web technologies.
-👯 I’m looking to collaborate on
-Open-source projects, web apps, and automation tools especially anything that solves real business problems.
-🤝 I’m looking for help with
-Backend development (FastAPI), system architecture, and scaling applications efficiently.
-🌱 I’m currently learning
-Full-stack development, API design, database optimization, and building scalable systems.
-💬 Ask me about
-Web development, system design, business focused tech solutions, or managing real world workflows.
+---
 
-⸻
+## 🔭 Current Work
+- Building real-world digital systems (retail platforms, booking systems, dashboards)
+- Developing centralized management solutions for businesses
+- Working on full-stack projects using modern technologies
 
-⚡ Fun fact
-I handle chaos like production traffic whether it’s a busy shift or a complex system, I keep things running smoothly.
+---
 
-🌐 Socials:
+## 🌱 Currently Learning
+- Full-Stack Development  
+- FastAPI & Backend Architecture  
+- Database Design & Optimization  
+- Scalable System Design  
 
-Instagram [LinkedIn](https://linkedin.com/in/MuhammadKarrarAhmad) email
+---
 
-💻 Tech Stack:
+## 👯 Collaboration
+- Open-source projects  
+- Web applications  
+- Automation tools solving real-world problems  
 
-JavaScript R Python Netlify Render Firebase FastAPI JWT React Native React React Query WordPress Firebase MongoDB MySQL Supabase Nginx Canva NumPy Matplotlib Pandas GitHub
+---
 
-📊 GitHub Stats:
+## 🤝 Looking for Help With
+- Advanced backend development (FastAPI)  
+- System architecture & scalability  
+- Clean code & best practices  
 
-![](https://github-readme-stats.vercel.app/api?username=MuhammadKarrarAhmad &theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+---
 
-![](https://nirzak-streak-stats.vercel.app/?user=MuhammadKarrarAhmad &theme=dark&hide_border=false)
+## 💬 Ask Me About
+- Web Development 🌐  
+- System Design 🧠  
+- Business-focused Tech Solutions 💼  
+- Real-world workflow systems  
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadKarrarAhmad &theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
-🏆 GitHub Trophies
+## ⚡ Fun Fact
+I handle chaos like production traffic ⚡ — whether it's a busy shift or a complex system, I keep everything running smoothly.
 
-![](https://github-profile-trophy.vercel.app/?username=MuhammadKarrarAhmad &theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
-✍️ Random Dev Quote
+## 🛠️ Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,fastapi,mongodb,git,github" />
+</p>
 
+---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
 
-🔝 Top Contributed Repo
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
 
-![](https://github-contributor-stats.vercel.app/api?username=MuhammadKarrarAhmad &limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-![](https://visitcount.itsvg.in/api?id=MuhammadKarrarAhmad &icon=2&color=3)
+## 🚀 Top Projects
+- 🔹 Business Management System  
+- 🔹 Booking & Reservation Platform  
+- 🔹 E-commerce System (Global Shipping)  
+
+---
+
+## 🌐 Connect With Me
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+⭐️ From Muhammad — Building systems that solve real problems
