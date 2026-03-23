@@ -1,4 +1,4 @@
-bu<h1 align="center">Hi 👋, I'm Muhammad Karrar Ahmad</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Karrar Ahmad</h1>
 <h3 align="center">T-Level Digital Production Student | Full-Stack Developer | Building Real-World Digital Solutions</h3>
 
 <p align="center">
