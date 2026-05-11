@@ -83,11 +83,11 @@ A digital system designed to improve parcel tracking, customer support, and oper
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MuhammadKarrarAhmad&show_icons=true&theme=dark&hide_border=false&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadkarrarahmad&show_icons=true&theme=dark&hide_border=false&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadKarrarAhmad&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadKarrarAhmad&theme=dark&layout=compact&langs_count=8&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkarrarahmad&theme=dark&layout=compact&langs_count=8&hide_border=false)
 
 ---
 
