@@ -87,17 +87,21 @@ A digital system designed to improve parcel tracking, customer support, and oper
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center">
       <h3>🔥 GitHub Stats</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=muhammadkarrarahmad&show_icons=true&theme=dark" />
     </td>
-    
-    <td align="center" width="33%">
-      <h3>⚡ Streak</h3>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <h3>⚡ Streak Stats</h3>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadkarrarahmad&theme=dark" />
     </td>
+  </tr>
 
-    <td align="center" width="33%">
+  <tr>
+    <td align="center">
       <h3>📊 Top Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadkarrarahmad&layout=compact&theme=dark" />
     </td>
@@ -105,6 +109,8 @@ A digital system designed to improve parcel tracking, customer support, and oper
 </table>
 
 </div>
+
+---
 
 ## ✍️ Quote
 
